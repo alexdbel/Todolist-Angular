@@ -3,18 +3,16 @@
 ## Présentation du Projet
 Application de gestion de tâches (TodoList) développée avec la dernière version d'Angular (v19), offrant une expérience utilisateur moderne et réactive.
 
-## Fonctionnalités Principales ✨
+## Fonctionnalités Principales 
 - Création, modification et suppression de tâches
-- Filtrage et tri des tâches
 - Gestion des statuts (à faire, en cours, terminé)
 - Interface responsive basée sur un design Figma
 - Sauvegarde des tâches
 
-## Technologies Utilisées 💻
+## Technologies Utilisées 
 - Angular 18
 - TypeScript
 - RxJS
-- Angular Material (optionnel)
 - HTML5
 - CSS3/SCSS
 
@@ -26,8 +24,6 @@ Application de gestion de tâches (TodoList) développée avec la dernière vers
 ## Fonctionnalités Techniques
 - Architecture modulaire
 - Gestion d'état avec services
-- Intercepteurs HTTP
-- Validation de formulaires
 - Tests unitaires
 
 ## Installation et Démarrage 🛠️
@@ -40,6 +36,4 @@ ng serve
 
 ## Captures d'Écran
 [Optionnel : Ajouter quelques captures d'écran]
-
-## Licence
-[Préciser votre licence, par exemple MIT]
+![alt text](image.png)
