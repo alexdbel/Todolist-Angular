@@ -10,7 +10,7 @@ Application de gestion de tâches (TodoList) développée avec la dernière vers
 - Sauvegarde des tâches
 
 ## Technologies Utilisées 
-- Angular 18
+- Angular 19
 - TypeScript
 - RxJS
 - HTML5
